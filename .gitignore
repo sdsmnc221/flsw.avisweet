@@ -1,0 +1,10 @@
+.env
+.env*
+*.env
+facebook_ratings_*.json
+
+node_modules/*/**
+node_modules/*
+node_modules/
+
+package-lock.json
